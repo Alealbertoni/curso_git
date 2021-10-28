@@ -37,8 +37,7 @@ namespace Course_2 {
             p.RemoverProdutos(qte);
             Console.WriteLine();
             Console.WriteLine("Dados Atualizados: " + p);
-            Console.WriteLine("Fim");
-            Console.WriteLine("Fim2");
+     
 
         }
     }
